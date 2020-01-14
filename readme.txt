@@ -7,3 +7,4 @@ test history branch
 test history branch1
 test switch
 this is a branch dev test
+i am the master
